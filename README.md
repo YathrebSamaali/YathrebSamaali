@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&border_radius=6&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=YathrebSamaali&theme=dark&border_radius=6&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@ I'm a passionate Full Stack and AI Developer with expertise in building scalable
 - 🔭 Currently working on **AI-powered applications and full-stack projects**
 - 🌱 Currently learning **Advanced Machine Learning techniques and Cloud Architecture**
 - 👯 Looking to collaborate on **innovative AI/ML projects and open-source contributions**
-- 💬 Ask me about **Web Development, Python, JavaScript, and Machine Learning**
+- 💬 Ask me about **Web Development and Machine Learning**
 - 📫 Reach me: **yathrebsamaali25@gmail.com**
 - ⚡ Fun fact: **I enjoy exploring new technologies and contributing to tech communities**
 
