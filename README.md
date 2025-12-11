@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hello, I'm Yathreb Samaali</h1>
-<h3 align="center">🚀 Full Stack & AI Developer | Passionate about Building Intelligent Solutions</h3>
+<h3 align="center">🚀 Full Stack & AI Developer </h3>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=YathrebSamaali&theme=dark&border_radius=6&mode=weekly" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 ---
 
