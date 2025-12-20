@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello, I'm Yathreb Samaali</h1>
 <h3 align="center">🚀 Full Stack & AI Developer </h3>
+<h3 align="center">🎓 Master student in Intelligent Web Applications </h3>
+
 
 
 
