@@ -1,67 +1,81 @@
-<h1 align="center">👋Hi, I'm Yathreb Samaali</h1>
-<h3 align="center">🚀 Full Stack & AI Developer </h3>
+<div align="center">
 
+# Yathreb Samaali
 
+**Full-Stack & AI Developer**
 
+Designing scalable web architectures and intelligent applications powered by Machine Learning, NLP, and semantic search.
 
----
+[Portfolio](https://yathrebsamaali.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yathreb-samaali) · [Email](mailto:yathrebsamaali25@gmail.com)
 
-## 👨‍💻 About Me
-
-I'm a passionate Full Stack and AI Developer with expertise in building scalable web applications and intelligent systems. I enjoy transforming complex problems into elegant solutions through code and machine learning.
-
-- 🔭 Currently working on **AI-powered applications and full-stack projects**
-- 🌱 Currently learning **Advanced Machine Learning techniques and Cloud Architecture**
-- 👯 Looking to collaborate on **innovative AI/ML projects and open-source contributions**
-- 💬 Ask me about **Web Development and Machine Learning**
-- 📫 Reach me: **yathrebsamaali25@gmail.com**
-- ⚡ Fun fact: **I enjoy exploring new technologies and contributing to tech communities**
+</div>
 
 ---
 
+## About Me
 
-## 🛠️ Technologies & Tools
+I am a Full-Stack & AI Developer based in Tunisia with a **Professional Master's degree in Intelligent Web Applications** and a **Bachelor's degree in Software and Systems Engineering** from the Higher Institute of Computer Science of Kef (ISI Kef).
 
-### Front-End
-<p align="left">
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
-  <a href="https://numpy.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/> </a>
-  <a href="https://httpd.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_httpd/apache_httpd-icon.svg" width="40" height="40"/> </a>
-  <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/> </a>
-</p>
+My work sits at the intersection of end-to-end web engineering and applied Artificial Intelligence. I build backend services and responsive interfaces using **Spring Boot, React, Angular, Python, and FastAPI**, and integrate practical AI capabilities—including **Machine Learning, Deep Learning, NLP, Retrieval-Augmented Generation (RAG), semantic search, and recommendation systems**—into production-ready applications. I approach engineering with a focus on clean architecture, maintainability, and continuous learning.
 
+---
+
+## Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend Development** | React, Angular, JavaScript, HTML5, CSS3, Bootstrap |
+| **Backend Development** | Spring Boot, FastAPI, Django, Node.js, Express, Laravel, Flask |
+| **Programming Languages** | Python, Java, JavaScript, PHP, C#, C, C++, Dart |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-Learn, LangChain, FAISS, Sentence Transformers, YOLOv5, Mask R-CNN, OpenCV, NumPy, Pandas, Prophet |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis Stack, Oracle, SQLite |
+| **DevOps & Tools** | Docker, Kubernetes, Jenkins, Terraform, SonarQube, Nexus, Prometheus, Grafana, AWS, Linux, Git, Postman |
+
+---
+
+## Featured Projects
+
+### Mawjoude — Intelligent Multi-Vendor Marketplace *(Flagship Project)*
+
+Designed and developed during my Master's graduation internship at **Zeus Labs**, **Mawjoude** is an intelligent multi-vendor e-commerce platform built to personalize product discovery and improve search relevance.
+
+- **Key Capabilities:** Hybrid recommendation engine combining content-based and collaborative filtering; semantic vector search powered by Sentence Transformers and Redis Stack; multi-vendor storefront, catalog, and order workflows.
+- **Stack:** React.js, Spring Boot (Java 21), Python, FastAPI, PostgreSQL, Redis Stack, Sentence Transformers.
+- **Availability:** Private internship/thesis repository — documented on [yathrebsamaali.vercel.app](https://yathrebsamaali.vercel.app/).
+
+---
+
+### Selected Public Repositories
+
+| Project | Description | Main Technologies | Repository |
+| :--- | :--- | :--- | :--- |
+| **Multi-Document Chatbot** | AI assistant for querying PDF, DOCX, and PPTX documents using Retrieval-Augmented Generation (RAG) and vector similarity search. | Python, Streamlit, LangChain, FAISS | [multi-document-chatbot](https://github.com/YathrebSamaali/multi-document-chatbot) |
+| **PRM-25** | Full-stack property management platform featuring JWT authentication, role-based access control, and structured REST APIs. | Angular, Spring Boot, Java 17, MySQL | [PRM-25](https://github.com/YathrebSamaali/PRM-25) |
+| **StationSKI (DevOps Pipeline)** | Modular Spring Boot and Angular application backed by an automated CI/CD, containerization, IaC, and observability pipeline. | Spring Boot, Angular, Docker, Kubernetes, Jenkins, SonarQube, Terraform, Prometheus, Grafana, AWS | [devops-project](https://github.com/YathrebSamaali/devops-project) |
+| **Fish Species Detection** | Automated detection, identification, and instance segmentation of fish species in aquaculture environments using YOLOv5 and Mask R-CNN. | Python, YOLOv5, Mask R-CNN, PyTorch, OpenCV, Detectron2 | [fish_detection](https://github.com/YathrebSamaali/fish_detection) |
+| **SuiviEcrans** | Industrial traceability web application built at CIPI ACTIA to automate screen-printing screen tracking, cleaning logs, and usage exports. | PHP, JavaScript, HTML, CSS, Bootstrap, PostgreSQL | [SuiviEcrans](https://github.com/YathrebSamaali/SuiviEcrans) |
+
+---
+
+## GitHub Activity
+
+My public repositories span full-stack web engineering, applied machine learning, computer vision, RAG chatbots, and automated DevOps pipelines. Browse all repositories and recent commits directly on [GitHub Repositories](https://github.com/YathrebSamaali?tab=repositories).
+
+---
+
+## Professional Interests
+
+- **Full-Stack Development** — Designing modular APIs, secure backends, and responsive web interfaces
+- **AI-Powered Applications** — Integrating LLMs, RAG pipelines, and intelligent workflows into real-world software
+- **Machine Learning & Computer Vision** — Building and evaluating predictive and visual recognition models
+- **Intelligent Web Systems** — Bridging classical web architectures with adaptive, data-driven intelligence
+- **Semantic Search & Recommendation Systems** — Improving information retrieval and personalization with vector embeddings and hybrid filtering
+
+---
+
+## Contact
+
+- **Email:** [yathrebsamaali25@gmail.com](mailto:yathrebsamaali25@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yathreb-samaali](https://www.linkedin.com/in/yathreb-samaali)
+- **GitHub:** [github.com/YathrebSamaali](https://github.com/YathrebSamaali)
+- **Portfolio:** [yathrebsamaali.vercel.app](https://yathrebsamaali.vercel.app/)
