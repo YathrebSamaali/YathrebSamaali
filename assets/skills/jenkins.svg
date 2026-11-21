@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 42" width="112" height="42" role="img" aria-label="Jenkins">
+  <rect x="1" y="2" width="106" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <circle cx="8" cy="8" r="6.4" fill="#D24939"/>
+           <circle cx="8" cy="6.8" r="2.8" fill="#F0D6B7"/>
+           <path d="M5.4 12.2c.6-1.3 1.5-2 2.6-2s2 .7 2.6 2" fill="#151F32"/>
+           <path d="M6.8 10.2l1.2 1 1.2-1" fill="none" stroke="#D24939" stroke-width="1"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">Jenkins</text>
+</svg>

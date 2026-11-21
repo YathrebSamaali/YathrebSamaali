@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 42" width="126" height="42" role="img" aria-label="LangChain">
+  <rect x="1" y="2" width="120" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <rect x="2.2" y="5" width="6.5" height="6" rx="3" fill="none" stroke="#55D6E8" stroke-width="1.5"/>
+           <rect x="7.3" y="5" width="6.5" height="6" rx="3" fill="none" stroke="#8FB8FF" stroke-width="1.5"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">LangChain</text>
+</svg>

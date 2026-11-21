@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 42" width="112" height="42" role="img" aria-label="PyTorch">
+  <rect x="1" y="2" width="106" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <path d="M11 4.6a4.5 4.5 0 1 1-6 0L8 1.6v2.8" fill="none" stroke="#EE4C2C" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+           <circle cx="10.3" cy="3.2" r="1" fill="#EE4C2C"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">PyTorch</text>
+</svg>

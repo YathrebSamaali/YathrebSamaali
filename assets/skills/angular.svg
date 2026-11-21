@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 42" width="112" height="42" role="img" aria-label="Angular">
+  <rect x="1" y="2" width="106" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <path d="M8 1.2L2 3.3l.9 8L8 14.8l5.1-3.5.9-8L8 1.2z" fill="#DD0031"/>
+           <path d="M8 1.2v13.6l5.1-3.5.9-8L8 1.2z" fill="#C3002F"/>
+           <path d="M8 3.6L4.6 11.2h1.3l.7-1.7h2.8l.7 1.7h1.3L8 3.6zm-.9 4.7L8 6.1l.9 2.2H7.1z" fill="#FFFFFF"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">Angular</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 42" width="104" height="42" role="img" aria-label="Python">
+  <rect x="1" y="2" width="98" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <path d="M7.9 1.6c-2.6 0-2.4 1.1-2.4 1.1v1.2h2.5v.4H4.5S2.8 4.1 2.8 6.8c0 2.7 1.5 2.6 1.5 2.6h.9V8.1s0-1.5 1.5-1.5h2.5s1.4 0 1.4-1.4V2.9s.2-1.3-2.7-1.3zm-1.4.8a.45.45 0 1 1 0 .9.45.45 0 0 1 0-.9z" fill="#3776AB"/>
+           <path d="M8.1 14.4c2.6 0 2.4-1.1 2.4-1.1v-1.2H8v-.4h3.5s1.7.2 1.7-2.5c0-2.7-1.5-2.6-1.5-2.6h-.9v1.3s0 1.5-1.5 1.5H6.8s-1.4 0-1.4 1.4v2.3s-.2 1.3 2.7 1.3zm1.4-.8a.45.45 0 1 1 0-.9.45.45 0 0 1 0 .9z" fill="#FFD43B"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">Python</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 42" width="90" height="42" role="img" aria-label="Java">
+  <rect x="1" y="2" width="84" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <path d="M5.5 7.5h5.2v2.4a2.6 2.6 0 0 1-5.2 0V7.5z" fill="#5382A1"/>
+           <path d="M10.7 8h1.1a1.1 1.1 0 0 1 0 2.2h-1.1" fill="none" stroke="#5382A1" stroke-width="1.1"/>
+           <path d="M4 13.8h8.2" stroke="#5382A1" stroke-width="1.2" stroke-linecap="round"/>
+           <path d="M7.2 5.8c-.6-.9.8-1.5.2-2.6M9.3 5.8c-.5-.8.6-1.3.1-2.2" fill="none" stroke="#ED8B00" stroke-width="1.1" stroke-linecap="round"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">Java</text>
+</svg>

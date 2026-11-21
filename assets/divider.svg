@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 16" width="960" height="16" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="div-fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#151F32" stop-opacity="0" />
+      <stop offset="25%" stop-color="#8FB8FF" stop-opacity="0.28" />
+      <stop offset="50%" stop-color="#55D6E8" stop-opacity="0.55" />
+      <stop offset="75%" stop-color="#8FB8FF" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#151F32" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <line x1="24" y1="8" x2="936" y2="8" stroke="url(#div-fade)" stroke-width="1" />
+  <circle cx="480" cy="8" r="2.5" fill="#55D6E8" fill-opacity="0.85" />
+  <circle cx="468" cy="8" r="1.4" fill="#8FB8FF" fill-opacity="0.5" />
+  <circle cx="492" cy="8" r="1.4" fill="#8FB8FF" fill-opacity="0.5" />
+</svg>

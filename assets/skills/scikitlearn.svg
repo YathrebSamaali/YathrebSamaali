@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 42" width="148" height="42" role="img" aria-label="Scikit-Learn">
+  <rect x="1" y="2" width="142" height="36" rx="8" fill="#151F32" stroke="#26354D" stroke-width="1" />
+  <rect x="8" y="8" width="24" height="24" rx="5.5" fill="#0B1120" stroke="#1E2D45" stroke-width="0.8" />
+  <g transform="translate(12, 12)">
+    <circle cx="6.2" cy="8.6" r="4" fill="#F7931E"/>
+           <circle cx="10.2" cy="7.2" r="3.4" fill="#3499CD" fill-opacity="0.9"/>
+  </g>
+  <text x="40" y="24.5" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="-0.1">Scikit-Learn</text>
+</svg>
