@@ -17,11 +17,11 @@
 
 ## About Me
 
-I am a **Full-Stack & AI Developer** based in Tunisia, holding a **Professional Master's degree in Intelligent Web Applications** and a **Bachelor's degree in Software and Systems Engineering** from the Higher Institute of Computer Science of Kef (ISI Kef).
+I am a **Full-Stack & AI Developer** based in Tunisia, holding a **Master Professionnel en Applications Web Intelligentes** (*Professional Master's degree in Intelligent Web Applications*) and a **Bachelor's degree in Software and Systems Engineering** from the Higher Institute of Computer Science of Kef (ISI Kef).
 
 My work sits at the intersection of modern web engineering and applied Artificial Intelligence. I build end-to-end applications—from responsive interfaces and modular REST APIs to intelligent features powered by Machine Learning, NLP, semantic search, and recommendation systems—with a focus on clean architecture, maintainability, and solving real problems.
 
-- **Education:** Professional Master's in Intelligent Web Applications · B.Sc. in Software & Systems Engineering (ISI Kef)
+- **Education:** Master Professionnel en Applications Web Intelligentes (*Professional Master's in Intelligent Web Applications*) · B.Sc. in Software & Systems Engineering (ISI Kef)
 - **Core Focus:** Full-Stack Web Architecture · Applied AI, RAG & Semantic Search · Recommendation Systems
 
 <br />

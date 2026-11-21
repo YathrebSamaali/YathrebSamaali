@@ -25,10 +25,10 @@
     <rect x="0" y="28" width="3.5" height="158" rx="1.75" fill="#55D6E8" />
 
     <!-- Eyebrow Pill -->
-    <rect x="34" y="24" width="292" height="22" rx="6" fill="#0B1120" stroke="#55D6E8" stroke-opacity="0.4" stroke-width="1" />
+    <rect x="34" y="24" width="318" height="22" rx="6" fill="#0B1120" stroke="#55D6E8" stroke-opacity="0.4" stroke-width="1" />
     <circle cx="46" cy="35" r="2.8" fill="#55D6E8" />
     <text x="56" y="39" fill="#55D6E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.4">
-      FLAGSHIP · ZEUS LABS · M.SC. THESIS
+      FLAGSHIP · ZEUS LABS · MASTER'S THESIS
     </text>
 
     <!-- Title &amp; Description -->

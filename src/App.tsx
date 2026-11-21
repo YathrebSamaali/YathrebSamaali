@@ -285,7 +285,7 @@ export function App() {
             </div>
             <div>
               <p className="text-lg font-semibold text-zinc-950">
-                M.Sc. Intelligent Web Apps
+                Master Pro · Intelligent Web Apps
               </p>
               <p className="mt-1 text-sm text-zinc-600">
                 ISI Kef · Full-Stack &amp; AI focus
