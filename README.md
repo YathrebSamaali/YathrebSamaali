@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://yathrebsamaali.vercel.app/">Portfolio</a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/yathreb-samaali">LinkedIn</a> &nbsp;&middot;&nbsp;
-  <a href="https://github.com/YathrebSamaali?tab=repositories">Repositories</a> &nbsp;&middot;&nbsp;
-  <a href="mailto:yathrebsamaali25@gmail.com">yathrebsamaali25@gmail.com</a>
+  <a href="#about-me">About</a> &nbsp;&middot;&nbsp;
+  <a href="#skills">Skills</a> &nbsp;&middot;&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;&middot;&nbsp;
+  <a href="#interests">Interests</a> &nbsp;&middot;&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
 <br />
@@ -19,7 +20,10 @@
 
 I am a **Full-Stack & AI Developer** based in Tunisia, holding a **Professional Master's degree in Intelligent Web Applications** and a **Bachelor's degree in Software and Systems Engineering** from the Higher Institute of Computer Science of Kef (ISI Kef).
 
-My focus sits at the intersection of modern web engineering and applied Artificial Intelligence. I build end-to-end applications—from responsive user interfaces and modular REST APIs to intelligent features powered by Machine Learning, NLP, semantic search, and recommendation systems—with an emphasis on clean architecture, maintainability, and practical problem-solving.
+My work sits at the intersection of modern web engineering and applied Artificial Intelligence. I build end-to-end applications—from responsive interfaces and modular REST APIs to intelligent features powered by Machine Learning, NLP, semantic search, and recommendation systems—with a focus on clean architecture, maintainability, and solving real problems.
+
+- **Education:** Professional Master's in Intelligent Web Applications · B.Sc. in Software & Systems Engineering (ISI Kef)
+- **Core Focus:** Full-Stack Web Architecture · Applied AI, RAG & Semantic Search · Recommendation Systems
 
 <br />
 
@@ -102,63 +106,39 @@ My focus sits at the intersection of modern web engineering and applied Artifici
 
 ## Featured Projects
 
-### Mawjoude — Intelligent Multi-Vendor Marketplace
+#### Flagship Project
 
-<sub>Flagship Project · Master's Graduation Project (Zeus Labs) · Private Repository · <a href="https://yathrebsamaali.vercel.app/">Documented on Portfolio</a></sub>
+<p align="center">
+  <a href="https://yathrebsamaali.vercel.app/">
+    <img src="./assets/projects/mawjoude.svg" width="100%" alt="Mawjoude — Intelligent Multi-Vendor Marketplace with hybrid recommendations and semantic vector search, Master's Graduation Project at Zeus Labs" />
+  </a>
+</p>
 
-> Designed and built an intelligent multi-vendor e-commerce platform combining a hybrid recommendation engine (content-based and collaborative filtering) with semantic vector search powered by Sentence Transformers and Redis Stack to personalize product discovery and improve search relevance.
->
-> `React.js` · `Spring Boot (Java 21)` · `Python` · `FastAPI` · `PostgreSQL` · `Redis Stack` · `Sentence Transformers`
+#### Selected Public Repositories
 
----
+<p align="center">
+  <a href="https://github.com/YathrebSamaali/multi-document-chatbot">
+    <img src="./assets/projects/chatbot.svg" width="388" alt="Multi-Document Chatbot — Conversational RAG Assistant built with Python, LangChain, FAISS, and Streamlit" />
+  </a>
+  <a href="https://github.com/YathrebSamaali/fish_detection">
+    <img src="./assets/projects/fish-detection.svg" width="388" alt="Fish Species Detection — Aquaculture computer vision pipeline using PyTorch, YOLOv5, Mask R-CNN, and OpenCV" />
+  </a>
+  <br />
+  <a href="https://github.com/YathrebSamaali/PRM-25">
+    <img src="./assets/projects/prm25.svg" width="388" alt="PRM-25 — Full-stack property management platform built with Angular, TypeScript, Spring Boot, and MySQL" />
+  </a>
+  <a href="https://github.com/YathrebSamaali/devops-project">
+    <img src="./assets/projects/stationski.svg" width="388" alt="StationSKI DevOps Pipeline — Automated CI/CD, Docker, Kubernetes, Jenkins, Terraform, and Grafana observability" />
+  </a>
+  <br />
+  <a href="https://github.com/YathrebSamaali/SuiviEcrans">
+    <img src="./assets/projects/suiviecrans.svg" width="388" alt="SuiviEcrans — Industrial traceability web application built at CIPI ACTIA with PHP, JavaScript, Bootstrap, and PostgreSQL" />
+  </a>
+</p>
 
-### [Multi-Document Chatbot](https://github.com/YathrebSamaali/multi-document-chatbot)
-
-<sub>Conversational RAG Assistant · <a href="https://github.com/YathrebSamaali/multi-document-chatbot">View Repository</a></sub>
-
-AI-powered assistant built with Streamlit to query PDF, DOCX, and PPTX documents using LangChain conversation pipelines and FAISS vector similarity search.
-
-`Python` · `Streamlit` · `LangChain` · `FAISS` · `RAG`
-
----
-
-### [Fish Species Detection](https://github.com/YathrebSamaali/fish_detection)
-
-<sub>Aquaculture Computer Vision Pipeline · <a href="https://github.com/YathrebSamaali/fish_detection">View Repository</a></sub>
-
-Automated detection, identification, and instance segmentation of fish species in aquaculture environments combining YOLOv5 object detection with Mask R-CNN segmentation.
-
-`Python` · `PyTorch` · `YOLOv5` · `Mask R-CNN` · `OpenCV` · `Detectron2`
-
----
-
-### [PRM-25](https://github.com/YathrebSamaali/PRM-25)
-
-<sub>Full-Stack Property Management Platform · <a href="https://github.com/YathrebSamaali/PRM-25">View Repository</a></sub>
-
-Secure full-stack property management application featuring JWT authentication, role-based access control, structured REST APIs, and relational MySQL persistence.
-
-`Angular` · `TypeScript` · `Spring Boot` · `Java 17` · `MySQL` · `JWT`
-
----
-
-### [StationSKI — DevOps Pipeline](https://github.com/YathrebSamaali/devops-project)
-
-<sub>Automated CI/CD & Observability Stack · <a href="https://github.com/YathrebSamaali/devops-project">View Repository</a></sub>
-
-Modular Spring Boot and Angular application supported by automated CI/CD pipelines, static quality gates, container orchestration, infrastructure provisioning, and monitoring.
-
-`Spring Boot` · `Angular` · `Docker` · `Kubernetes` · `Jenkins` · `SonarQube` · `Terraform` · `Prometheus` · `Grafana` · `AWS`
-
----
-
-### [SuiviEcrans](https://github.com/YathrebSamaali/SuiviEcrans)
-
-<sub>Industrial Traceability Web Application (CIPI ACTIA) · <a href="https://github.com/YathrebSamaali/SuiviEcrans">View Repository</a></sub>
-
-Web application built during an internship at CIPI ACTIA to automate screen-printing screen tracking across production and cleaning workflows with searchable history and export.
-
-`PHP` · `JavaScript` · `HTML5` · `CSS3` · `Bootstrap` · `PostgreSQL`
+<p align="center">
+  <a href="https://github.com/YathrebSamaali?tab=repositories">Browse all public repositories &rarr;</a>
+</p>
 
 <br />
 
@@ -168,13 +148,15 @@ Web application built during an internship at CIPI ACTIA to automate screen-prin
 
 ## Interests
 
-- **AI-Powered Applications** — Integrating LLMs, retrieval pipelines, and intelligent workflows into real-world software.
-- **Full-Stack Engineering** — Building cohesive frontend experiences backed by modular, reliable services.
-- **Machine Learning & Computer Vision** — Designing and evaluating predictive and visual recognition pipelines.
-- **Intelligent Recommendation Systems** — Combining collaborative and content-based signals for relevant discovery.
-- **Semantic Search** — Improving information retrieval with dense vector embeddings and hybrid indexing.
-- **Modern Software Architecture** — Structuring maintainable systems across services, data stores, and deployment pipelines.
-- **Building Useful Digital Products** — Turning technical foundations into clear, user-centered tools.
+<p align="center">
+  <img src="./assets/interests/01-ai-apps.svg" width="256" alt="01 AI-Powered Applications — LLMs, RAG workflows, and intelligent product features" />
+  <img src="./assets/interests/02-fullstack.svg" width="256" alt="02 Full-Stack Engineering — Modular backend APIs paired with responsive interfaces" />
+  <img src="./assets/interests/03-ml-vision.svg" width="256" alt="03 Machine Learning & Vision — Predictive modeling and visual recognition pipelines" />
+  <br />
+  <img src="./assets/interests/04-recommendations.svg" width="256" alt="04 Recommendation Systems — Hybrid collaborative and content-based discovery" />
+  <img src="./assets/interests/05-semantic-search.svg" width="256" alt="05 Semantic Search — Dense vector embeddings and similarity retrieval" />
+  <img src="./assets/interests/06-architecture.svg" width="256" alt="06 Software Architecture — Maintainable, scalable, and user-centered digital tools" />
+</p>
 
 <br />
 
@@ -184,7 +166,7 @@ Web application built during an internship at CIPI ACTIA to automate screen-prin
 
 ## GitHub Activity
 
-My public work spans full-stack web applications, RAG assistants, computer vision pipelines, and automated DevOps workflows. Browse all repositories and recent commit activity directly on [GitHub Repositories](https://github.com/YathrebSamaali?tab=repositories).
+My repositories span full-stack web systems, conversational RAG applications, computer vision pipelines, and automated DevOps workflows. Explore recent commits and open-source code directly on [GitHub Repositories](https://github.com/YathrebSamaali?tab=repositories).
 
 <br />
 

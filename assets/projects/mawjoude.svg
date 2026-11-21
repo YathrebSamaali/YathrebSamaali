@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 214" width="960" height="214" role="img" aria-labelledby="mw-title mw-desc">
+  <title id="mw-title">Mawjoude — Intelligent Multi-Vendor Marketplace (Flagship Project)</title>
+  <desc id="mw-desc">Master's graduation project at Zeus Labs combining a hybrid recommendation engine with semantic vector search across React.js, Spring Boot Java 21, Python FastAPI, PostgreSQL, Redis Stack, and Sentence Transformers.</desc>
+
+  <defs>
+    <clipPath id="mw-clip">
+      <rect x="0" y="0" width="960" height="214" rx="14" />
+    </clipPath>
+    <linearGradient id="mw-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151F32" />
+      <stop offset="55%" stop-color="#0E1628" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+    <linearGradient id="mw-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#55D6E8" stop-opacity="0.55" />
+      <stop offset="45%" stop-color="#8FB8FF" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#26354D" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#mw-clip)">
+    <rect x="0" y="0" width="960" height="214" fill="url(#mw-bg)" />
+
+    <!-- Left Accent Bar -->
+    <rect x="0" y="28" width="3.5" height="158" rx="1.75" fill="#55D6E8" />
+
+    <!-- Eyebrow Pill -->
+    <rect x="34" y="24" width="292" height="22" rx="6" fill="#0B1120" stroke="#55D6E8" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="46" cy="35" r="2.8" fill="#55D6E8" />
+    <text x="56" y="39" fill="#55D6E8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.4">
+      FLAGSHIP · ZEUS LABS · M.SC. THESIS
+    </text>
+
+    <!-- Title &amp; Description -->
+    <text x="34" y="76" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4">
+      Mawjoude — Intelligent Multi-Vendor Marketplace
+    </text>
+
+    <text x="34" y="104" fill="#A1ADBF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">
+      Full-stack multi-vendor e-commerce platform combining a hybrid recommendation
+    </text>
+    <text x="34" y="124" fill="#A1ADBF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">
+      engine (content-based + collaborative filtering) with semantic vector search to
+    </text>
+    <text x="34" y="144" fill="#A1ADBF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">
+      personalize product discovery and improve search relevance.
+    </text>
+
+    <!-- Stack Row -->
+    <line x1="34" y1="162" x2="604" y2="162" stroke="#8FB8FF" stroke-opacity="0.14" stroke-width="1" />
+    <text x="34" y="185" fill="#8FB8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="500">
+      React.js · Spring Boot (Java 21) · Python · FastAPI · PostgreSQL · Redis Stack
+    </text>
+
+    <!-- Right-Side Architecture Schematic -->
+    <g transform="translate(636, 24)">
+      <rect x="0" y="0" width="294" height="166" rx="10" fill="#0B1120" stroke="#26354D" stroke-width="1" />
+      <text x="16" y="22" fill="#A1ADBF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="0.4">
+        AI DISCOVERY PIPELINE
+      </text>
+      <line x1="0" y1="32" x2="294" y2="32" stroke="#1E2D45" stroke-width="1" />
+
+      <!-- Step 1: Embeddings -->
+      <rect x="16" y="45" width="122" height="32" rx="6" fill="#151F32" stroke="#8FB8FF" stroke-opacity="0.28" stroke-width="1" />
+      <circle cx="28" cy="61" r="2.8" fill="#8FB8FF" />
+      <text x="38" y="65" fill="#E8EDF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">
+        Transformers
+      </text>
+
+      <!-- Step 2: Hybrid Rank -->
+      <rect x="156" y="45" width="122" height="32" rx="6" fill="#151F32" stroke="#8FB8FF" stroke-opacity="0.28" stroke-width="1" />
+      <circle cx="168" cy="61" r="2.8" fill="#8FB8FF" />
+      <text x="178" y="65" fill="#E8EDF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">
+        Hybrid Filter
+      </text>
+
+      <!-- Connectors down to Redis Vector -->
+      <path d="M 77 77 L 77 92 L 147 92" fill="none" stroke="#55D6E8" stroke-opacity="0.55" stroke-width="1.2" />
+      <path d="M 217 77 L 217 92 L 147 92" fill="none" stroke="#8FB8FF" stroke-opacity="0.45" stroke-width="1.2" />
+      <line x1="147" y1="92" x2="147" y2="103" stroke="#55D6E8" stroke-width="1.2" />
+
+      <!-- Step 3: Vector + Marketplace -->
+      <rect x="16" y="103" width="262" height="30" rx="6" fill="#151F32" stroke="#55D6E8" stroke-opacity="0.48" stroke-width="1" />
+      <circle cx="29" cy="118" r="3" fill="#55D6E8" />
+      <text x="40" y="122" fill="#E8EDF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10.5" font-weight="600">
+        Redis Stack · Semantic Search
+      </text>
+
+      <!-- Footer Affordance -->
+      <text x="16" y="153" fill="#55D6E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600">
+        Documented on Portfolio  →
+      </text>
+      <text x="278" y="153" text-anchor="end" fill="#64748B" font-family="ui-monospace, monospace" font-size="9.5">
+        Private Repo
+      </text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="959" height="213" rx="13.5" fill="none" stroke="url(#mw-border)" stroke-width="1.2" />
+</svg>

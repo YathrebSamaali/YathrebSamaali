@@ -64,7 +64,7 @@
       at the intersection of software engineering and applied AI.
     </text>
 
-    <!-- Editorial Rule & Core Focus Line -->
+    <!-- Editorial Rule &amp; Core Focus Line -->
     <line x1="58" y1="222" x2="564" y2="222" stroke="url(#hairline-accent)" stroke-width="1" />
 
     <text x="58" y="244" fill="#A1ADBF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="500">
@@ -75,7 +75,7 @@
       <tspan fill="#E8EDF5">Semantic Search</tspan>
     </text>
 
-    <!-- Right-Side Minimal AI & Systems Architecture Visual -->
+    <!-- Right-Side Minimal AI &amp; Systems Architecture Visual -->
     <g transform="translate(618, 38)">
       <rect x="0" y="0" width="302" height="208" rx="12" fill="#151F32" fill-opacity="0.72" stroke="#8FB8FF" stroke-opacity="0.18" stroke-width="1" />
 

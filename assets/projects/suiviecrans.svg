@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388 164" width="388" height="164" role="img" aria-label="SuiviEcrans (CIPI ACTIA) — INDUSTRIAL WEB">
+  <defs>
+    <linearGradient id="bg-suiviecrans" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151F32" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="2" width="380" height="156" rx="12" fill="url(#bg-suiviecrans)" stroke="#26354D" stroke-width="1" />
+  <rect x="16" y="2" width="64" height="2.5" rx="1.25" fill="#8FB8FF" />
+
+  <text x="20" y="28" fill="#8FB8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.7">
+    INDUSTRIAL WEB
+  </text>
+
+  <text x="20" y="54" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="-0.25">
+    SuiviEcrans (CIPI ACTIA)
+  </text>
+
+  <text x="20" y="79" fill="#A1ADBF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">
+    Industrial traceability web app automating
+  </text>
+  <text x="20" y="97" fill="#A1ADBF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">
+    screen tracking, cleaning logs, and exports.
+  </text>
+
+  <line x1="20" y1="115" x2="362" y2="115" stroke="#8FB8FF" stroke-opacity="0.14" stroke-width="1" />
+
+  <text x="20" y="138" fill="#8FB8FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="500">
+    PHP · JavaScript · Bootstrap · PostgreSQL
+  </text>
+
+  <circle cx="352" cy="134" r="12" fill="#0B1120" stroke="#8FB8FF" stroke-opacity="0.4" stroke-width="1" />
+  <path d="M348 134h8m-3-3l3 3-3 3" fill="none" stroke="#8FB8FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
