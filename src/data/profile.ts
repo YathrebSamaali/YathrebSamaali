@@ -85,7 +85,7 @@ export const SKILL_GROUPS: SkillGroup[] = [
   {
     domain: 'Programming Languages',
     summary: 'Application, systems, and data science languages',
-    items: ['Python', 'Java', 'JavaScript', 'PHP', 'C#', 'C', 'C++', 'Dart'],
+    items: ['Python', 'Java', 'TypeScript', 'JavaScript', 'PHP', 'C#', 'C', 'C++', 'Dart'],
   },
   {
     domain: 'AI & Machine Learning',

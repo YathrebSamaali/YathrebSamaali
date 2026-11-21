@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 68" width="960" height="68" role="img" aria-label="Core technologies: React, TypeScript, Spring Boot, Java, Python, FastAPI, PostgreSQL, Redis">
+  <rect x="0" y="0" width="960" height="68" rx="10" fill="#0B1120" />
+  <rect x="0.5" y="0.5" width="959" height="67" rx="9.5" fill="none" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 8 evenly spaced core technology chips (107px wide, 10px gap, 17px side padding) -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#E2E8F0">
+    <!-- 1: React -->
+    <rect x="17" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="34" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="45" y="37.5">React</text>
+
+    <!-- 2: TypeScript -->
+    <rect x="134" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="147" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="156" y="37.5">TypeScript</text>
+
+    <!-- 3: Spring Boot -->
+    <rect x="251" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="262" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="270" y="37.5">Spring Boot</text>
+
+    <!-- 4: Java -->
+    <rect x="368" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="388" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="399" y="37.5">Java</text>
+
+    <!-- 5: Python -->
+    <rect x="485" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="502" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="513" y="37.5">Python</text>
+
+    <!-- 6: FastAPI -->
+    <rect x="602" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="618" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="629" y="37.5">FastAPI</text>
+
+    <!-- 7: PostgreSQL -->
+    <rect x="719" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="732" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="741" y="37.5">PostgreSQL</text>
+
+    <!-- 8: Redis -->
+    <rect x="836" y="14" width="107" height="40" rx="7" fill="#111827" stroke="#1E293B" stroke-width="1" />
+    <circle cx="854" cy="34" r="2.8" fill="#38BDF8" />
+    <text x="865" y="37.5">Redis</text>
+  </g>
+</svg>
