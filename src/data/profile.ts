@@ -42,7 +42,7 @@ export const PROFILE = {
   tagline:
     'Designing scalable web architectures and intelligent applications powered by Machine Learning, NLP, and semantic search.',
   education:
-    "Professional Master's Degree in Intelligent Web Applications · B.Sc. in Software & Systems Engineering (ISI Kef)",
+    "Professional Master's Degree in Intelligent Web Applications (ISI Kef)",
   bio: "I build end-to-end web applications using Spring Boot, React, Angular, Python, and FastAPI, integrating practical AI capabilities—from Machine Learning and Deep Learning to NLP, Retrieval-Augmented Generation (RAG), semantic search, and recommendation systems.",
   location: 'Tunisia',
   email: 'yathrebsamaali25@gmail.com',

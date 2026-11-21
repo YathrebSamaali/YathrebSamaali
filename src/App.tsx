@@ -285,10 +285,10 @@ export function App() {
             </div>
             <div>
               <p className="text-lg font-semibold text-zinc-950">
-                Master Pro · Intelligent Web Apps
+                Professional Master's Degree
               </p>
               <p className="mt-1 text-sm text-zinc-600">
-                ISI Kef · Full-Stack &amp; AI focus
+                Intelligent Web Applications · ISI Kef
               </p>
             </div>
             <div>
