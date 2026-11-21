@@ -6,7 +6,6 @@
   <a href="#about-me">About</a> &nbsp;&middot;&nbsp;
   <a href="#skills">Skills</a> &nbsp;&middot;&nbsp;
   <a href="#featured-projects">Projects</a> &nbsp;&middot;&nbsp;
-  <a href="#interests">Interests</a> &nbsp;&middot;&nbsp;
   <a href="#connect">Connect</a>
 </p>
 
@@ -139,34 +138,6 @@ My work sits at the intersection of modern web engineering and applied Artificia
 <p align="center">
   <a href="https://github.com/YathrebSamaali?tab=repositories">Browse all public repositories &rarr;</a>
 </p>
-
-<br />
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
-
-## Interests
-
-<p align="center">
-  <img src="./assets/interests/01-ai-apps.svg" width="256" alt="01 AI-Powered Applications — LLMs, RAG workflows, and intelligent product features" />
-  <img src="./assets/interests/02-fullstack.svg" width="256" alt="02 Full-Stack Engineering — Modular backend APIs paired with responsive interfaces" />
-  <img src="./assets/interests/03-ml-vision.svg" width="256" alt="03 Machine Learning & Vision — Predictive modeling and visual recognition pipelines" />
-  <br />
-  <img src="./assets/interests/04-recommendations.svg" width="256" alt="04 Recommendation Systems — Hybrid collaborative and content-based discovery" />
-  <img src="./assets/interests/05-semantic-search.svg" width="256" alt="05 Semantic Search — Dense vector embeddings and similarity retrieval" />
-  <img src="./assets/interests/06-architecture.svg" width="256" alt="06 Software Architecture — Maintainable, scalable, and user-centered digital tools" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
-
-## GitHub Activity
-
-My repositories span full-stack web systems, conversational RAG applications, computer vision pipelines, and automated DevOps workflows. Explore recent commits and open-source code directly on [GitHub Repositories](https://github.com/YathrebSamaali?tab=repositories).
 
 <br />
 
