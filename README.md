@@ -192,13 +192,26 @@ My public work spans full-stack web applications, RAG assistants, computer visio
   <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
-## Contact
+## Connect
 
 Open to **Full-Stack Developer** and **AI / Intelligent Web Systems** opportunities, technical collaborations, and engineering conversations.
 
-| Channel | Link |
-| :--- | :--- |
-| **GitHub** | [github.com/YathrebSamaali](https://github.com/YathrebSamaali) |
-| **LinkedIn** | [linkedin.com/in/yathreb-samaali](https://www.linkedin.com/in/yathreb-samaali) |
-| **Email** | [yathrebsamaali25@gmail.com](mailto:yathrebsamaali25@gmail.com) |
-| **Portfolio** | [yathrebsamaali.vercel.app](https://yathrebsamaali.vercel.app/) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/yathreb-samaali">
+    <img src="./assets/connect/linkedin.svg" width="388" alt="LinkedIn — Let's connect professionally" />
+  </a>
+  <a href="https://github.com/YathrebSamaali">
+    <img src="./assets/connect/github.svg" width="388" alt="GitHub — Explore my projects and code" />
+  </a>
+  <br />
+  <a href="mailto:yathrebsamaali25@gmail.com">
+    <img src="./assets/connect/email.svg" width="388" alt="Email — Let's discuss opportunities (yathrebsamaali25@gmail.com)" />
+  </a>
+  <a href="https://yathrebsamaali.vercel.app">
+    <img src="./assets/connect/portfolio.svg" width="388" alt="Portfolio — Discover my work and projects" />
+  </a>
+</p>
+
+<p align="center">
+  Direct email: <a href="mailto:yathrebsamaali25@gmail.com"><code>yathrebsamaali25@gmail.com</code></a>
+</p>

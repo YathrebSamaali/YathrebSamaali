@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388 76" width="388" height="76" role="img" aria-label="LinkedIn — Let's connect professionally">
+  <defs>
+    <linearGradient id="card-bg-li" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151F32" />
+      <stop offset="100%" stop-color="#0B1120" />
+    </linearGradient>
+    <linearGradient id="card-border-li" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#55D6E8" stop-opacity="0.45" />
+      <stop offset="45%" stop-color="#8FB8FF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#26354D" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="2" width="380" height="70" rx="12" fill="url(#card-bg-li)" stroke="url(#card-border-li)" stroke-width="1" />
+  <rect x="1" y="20" width="2.5" height="34" rx="1.25" fill="#55D6E8" />
+
+  <!-- Icon Container -->
+  <rect x="18" y="17" width="40" height="40" rx="9" fill="#0B1120" stroke="#8FB8FF" stroke-opacity="0.22" stroke-width="1" />
+  <g transform="translate(28, 27)">
+    <rect x="1" y="1" width="18" height="18" rx="3.5" fill="#0A66C2" />
+    <circle cx="5.7" cy="6.2" r="1.25" fill="#FFFFFF" />
+    <rect x="4.6" y="8.6" width="2.2" height="6.6" rx="0.4" fill="#FFFFFF" />
+    <path d="M8.8 8.6h2.1v.95c.4-.65 1.15-1.15 2.2-1.15 1.7 0 2.65 1.1 2.65 3.1v3.7h-2.2v-3.3c0-.95-.35-1.55-1.2-1.55-.8 0-1.35.55-1.35 1.5v3.35H8.8V8.6z" fill="#FFFFFF" />
+  </g>
+
+  <!-- Content -->
+  <text x="72" y="33" fill="#E8EDF5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" letter-spacing="-0.15">
+    LinkedIn
+  </text>
+  <text x="72" y="51" fill="#A1ADBF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">
+    Let's connect professionally
+  </text>
+
+  <!-- Clickable Arrow Indicator -->
+  <circle cx="354" cy="37" r="13" fill="#0B1120" stroke="#55D6E8" stroke-opacity="0.35" stroke-width="1" />
+  <path d="M349.5 37h9m-3.5-3.5L358.5 37l-3.5 3.5" fill="none" stroke="#55D6E8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
